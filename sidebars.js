@@ -252,6 +252,7 @@ const sidebars = {
             'develop/smart-contracts/guidelines/processing',
             'develop/smart-contracts/governance',
             'develop/smart-contracts/guidelines/tips',
+            'develop/smart-contracts/guidelines/nominator-pool-smart-contract-overview',
             {
               type: 'link',
               label: 'How to shard your TON smart contract and why',
